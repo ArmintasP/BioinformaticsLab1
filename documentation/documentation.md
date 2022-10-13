@@ -27,7 +27,7 @@ $$
 kur $x_i, y_i$ žymi skirtingų virusų sekų $i$-tajo kodono ar dikodono dažnį iš dažnių rinkinio $x$ ar $y$.
 
 # Rezultatai
-Vienas bakterinis virusas klasterizavosi kartu su kitais 3 žinduoliniais virusais.
+Du bakteriniai virusas klasterizavosi kartu su kitais 2 žinduoliniais virusais.
 Vienas žinduolinis virusas klazterizavosi kartu su kitais 2 bakteriniais virusais. 
 
 Koronavirusas buvo išskirtinis, nes jis klasterizavosi vienas.
